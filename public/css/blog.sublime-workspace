@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col-md",
+				"col-md-8 \tBootstrap 4 Class"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"empl",
+				"employees"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"layu",
+				"layouts/master.blade.php \tBlade Autocomplete"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"Task",
+				"TasksController"
+			],
+			[
+				"rout",
+				"Route"
+			],
+			[
+				"tas",
+				"task"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: danger"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package u",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Laravel ",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"create file",
+				"Package Control: Create Package File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Khawar/Sites/vutest/resources/views/admin.blade.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/AdminController.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/Users/Khawar/Sites/vutest/resources/views/auth/passwords/email.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/welcome.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/newemployee.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/home.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/employee.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/auth/login.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/nav.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/auth/register.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/auth/passwords/reset.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/auth/admin-login.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/auth/employee-login.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/app.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/landing.blade.php",
+		"/Users/Khawar/Sites/vutest/public/css/app.css",
+		"/Users/Khawar/Sites/blog/server.php",
+		"/Users/Khawar/Sites/vutest/public/css/cover.css",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/footer.blade.php",
+		"/Users/Khawar/Sites/vutest/.env",
+		"/Users/Khawar/Sites/vutest/vendor/league/flysystem/src/Config.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+		"/Users/Khawar/Sites/vutest/app/Admin.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/Khawar/Sites/vutest/resources/views/components/who.blade.php",
+		"/Users/Khawar/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Khawar/Sites/vutest/routes/web.php",
+		"/Users/Khawar/Sites/vutest/app/Exceptions/Handler.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Auth/AuthenticationException.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/HomeController.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/Auth/AdminLoginController.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/Auth/EmployeeLoginController.php",
+		"/Users/Khawar/Sites/vutest/app/Employee.php",
+		"/Users/Khawar/Sites/vutest/config/auth.php",
+		"/Users/Khawar/Sites/vutest/config/app.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/EmployeeController.php",
+		"/Users/Khawar/Sites/vutest/database/migrations/2018_08_01_121251_create_admins_table.php",
+		"/Users/Khawar/Sites/vutest/database/migrations/2018_08_01_121339_create_employees_table.php",
+		"/Users/Khawar/Sites/vutest/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Middleware/CheckForMaintenanceMode.php",
+		"/Users/Khawar/Sites/vutest/database/migrations/2018_07_31_200348_create_tasks_table.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/master.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/about.blade.php",
+		"/Users/Khawar/Sites/vutest/app/Comment.php",
+		"/Users/Khawar/Sites/vutest/resources/views/posts/show.blade.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/CommentsController.php",
+		"/Users/Khawar/Sites/vutest/app/Post.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/PostsController.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Controllers/TasksController.php",
+		"/Users/Khawar/Sites/vutest/resources/views/posts/create.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/assets/sass/app.scss",
+		"/Users/Khawar/Sites/vutest/database/migrations/2018_07_27_185945_create_comments_table.php",
+		"/Users/Khawar/Sites/vutest/public/css/blog.css",
+		"/Users/Khawar/Sites/vutest/resources/views/posts/post.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/posts/index.blade.php",
+		"/Users/Khawar/Sites/vutest/app/Model.php",
+		"/Users/Khawar/Sites/vutest/public/index.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/errors.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/aside.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layouts/main.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layout/master.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layout/nav.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/layout/footer.blade.php",
+		"/Users/Khawar/Sites/vutest/public/css/jumbotron.css",
+		"/Users/Khawar/Sites/vutest/resources/views/layout.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/tasks/show.blade.php",
+		"/Users/Khawar/Sites/vutest/resources/views/tasks/index.blade.php",
+		"/Users/Khawar/Sites/vutest/database/migrations/2018_07_26_154137_create_posts_table.php",
+		"/Users/Khawar/Downloads/vutest.sublime-project",
+		"/Users/Khawar/Sites/vutest/database/migrations/2018_07_25_172718_create_tasks_table.php",
+		"/Users/Khawar/Sites/vutest/database/migrations/2018_07_25_134628_create_tasks_table.php",
+		"/Users/Khawar/Sites/vutest/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/Khawar/Sites/vutest/app/Http/Kernel.php",
+		"/Users/Khawar/Sites/vutest/public/.htaccess",
+		"/Users/Khawar/Sites/vutest/config/database.php",
+		"/Users/Khawar/Downloads/class.xml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vadmi",
+				"resources/views/admin.blade.php"
+			],
+			[
+				"vwel",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"config",
+				"vendor/league/flysystem/src/Config.php"
+			],
+			[
+				"logincon",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"rwe",
+				"routes/web.php"
+			],
+			[
+				"homect",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"emplogincon",
+				"app/Http/Controllers/Auth/EmployeeLoginController.php"
+			],
+			[
+				"hlogin",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"ifaa",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php"
+			],
+			[
+				"cauth",
+				"config/auth.php"
+			],
+			[
+				"capp",
+				"config/app.php"
+			],
+			[
+				"plogincon",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"emp",
+				"app/Employee.php"
+			],
+			[
+				"aut",
+				"config/auth.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"aadm",
+				"app/Admin.php"
+			],
+			[
+				"caut",
+				"config/auth.php"
+			],
+			[
+				"registerus",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php"
+			],
+			[
+				"check",
+				"app/Http/Middleware/CheckForMaintenanceMode.php"
+			],
+			[
+				"chom",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"post",
+				"app/Post.php"
+			],
+			[
+				"postshow",
+				"resources/views/posts/show.blade.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"postcre",
+				"resources/views/posts/create.blade.php"
+			],
+			[
+				"postsho",
+				"resources/views/posts/show.blade.php"
+			],
+			[
+				"comme",
+				"app/Comment.php"
+			],
+			[
+				"pos",
+				"app/Post.php"
+			],
+			[
+				"commen",
+				"app/Comment.php"
+			],
+			[
+				"pc",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"psho",
+				"resources/views/posts/show.blade.php"
+			],
+			[
+				"postindex",
+				"resources/views/posts/index.blade.php"
+			],
+			[
+				"pinde",
+				"public/index.php"
+			],
+			[
+				"pcre",
+				"resources/views/posts/create.blade.php"
+			],
+			[
+				"abou",
+				"resources/views/about.blade.php"
+			],
+			[
+				"wel",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"app.ph",
+				"config/app.php"
+			],
+			[
+				"kern",
+				"app/Http/Kernel.php"
+			],
+			[
+				".h",
+				"public/.htaccess"
+			],
+			[
+				"dat",
+				"config/database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
